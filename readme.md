@@ -1,3 +1,3 @@
 # demo
 
-hello github i am learning to you.
+hello i am learning github.
